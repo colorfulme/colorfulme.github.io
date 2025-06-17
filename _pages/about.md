@@ -1,4 +1,4 @@
----Add commentMore actions
+---
 permalink: /
 title: "About"
 author_profile: true
